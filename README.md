@@ -24,3 +24,10 @@ rlite mydb.rld> get key
 "value"
 rlite mydb.rld> exit
 ```
+
+## Install
+
+```
+$ git submodule update --init
+$ make && sudo make install
+```
