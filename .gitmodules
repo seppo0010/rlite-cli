@@ -1,0 +1,6 @@
+[submodule "vendor/rlite"]
+	path = vendor/rlite
+	url = git://github.com/seppo0010/rlite.git
+[submodule "deps/rlite"]
+	path = deps/rlite
+	url = git://github.com/seppo0010/rlite.git
