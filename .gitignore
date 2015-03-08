@@ -1,3 +1,5 @@
 *.o
 rlite-cli
 *.rld
+rdb2rld
+rdb2rld-test
