@@ -29,6 +29,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <stdint.h>
 #include "hirlite.h"
 #include "sds.h"
 #include "lzf.h"    /* LZF compression library */
