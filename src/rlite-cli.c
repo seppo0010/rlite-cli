@@ -60,7 +60,7 @@
 #define RLITE_CLI_KEEPALIVE_INTERVAL 15 /* seconds */
 #define RLITE_CLI_DEFAULT_PIPE_TIMEOUT 30 /* seconds */
 #define RLITE_CLI_HISTFILE_ENV "RLITECLI_HISTFILE"
-#define RLITE_CLI_HISTFILE_DEFAULT ".rlite"
+#define RLITE_CLI_HISTFILE_DEFAULT ".rlite-history"
 
 static rliteContext *context;
 static struct config {
